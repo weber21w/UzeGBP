@@ -62,4 +62,3 @@ A lightweight **Game Boy (DMG) APU** player for **Uzebox**, capable of streaming
 ## License
 
 This repository is licensed under **GPL-3.0**.  
-If you copy code from third-party repositories, also comply with their licenses.
