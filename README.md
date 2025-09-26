@@ -2,7 +2,7 @@
 
 A lightweight **Game Boy (DMG) APU** player for **Uzebox**, capable of streaming **.VGM** from **SPI RAM** while mixing audio in real time. The SD card is used only to **prefetch/fill SPI RAM**, not for direct playback.
 
-See discussion on the [Uzebox forums](https://uzebox.org/forums/viewtopic.php?t=11734
+See discussion on the [Uzebox forums](https://uzebox.org/forums/viewtopic.php?t=11734)
 
 > **Status:** Working VGM player. **VGZ (gzip) is not yet implemented** (planned).
 
